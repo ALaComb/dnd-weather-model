@@ -1,0 +1,28 @@
+{
+    "general": {
+        "year": 240,
+        "week": 10
+    },
+    "life": {
+        "period": 240,
+        "coterminous": "EFFECT GOES HERE",
+        "percentile": {
+            "10": "EFFECT",
+            "90": "EFFECT",
+            "Other": "EFFECT"
+        },
+        "min_effect": "",
+        "max_effect": ""
+    },
+    "fire": {
+        "period": 192,
+        "coterminous": "EFFECT GOES HERE",
+        "percentile": {
+            "10": "EFFECT",
+            "90": "EFFECT",
+            "Other": "EFFECT"
+        },
+        "min_effect": -10,
+        "max_effect": 120
+    }
+}
